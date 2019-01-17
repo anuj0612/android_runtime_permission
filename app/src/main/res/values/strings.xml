@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidRuntimePermission</string>
+
+    <string name="runtime_permissions_txt">Permission Access</string>
+</resources>
