@@ -1,5 +1,14 @@
 <resources>
-    <string name="app_name">AndroidRuntimePermission</string>
-
+    <string name="app_name">Standard App</string>
     <string name="runtime_permissions_txt">Permission Access</string>
+    <string name="remember_password">Remember password</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="title_activity_home_page">Standard App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="e_mail_or_mobile">E-mail or Mobile</string>
 </resources>

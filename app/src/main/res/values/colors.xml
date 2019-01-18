@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#7B0100</color>
+    <color name="colorPrimaryDark">#7B0100</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#e2e2e2</color>
+    <color name="dark_gray">#b3b2b2</color>
+    <color name="green">#288D27</color>
+    <color name="dark_green">#11710f</color>
+    <color name="red">#e60404</color>
+    <color name="black_overlay">#66000000</color>
+
+    <!--color name for background -->
+    <color name="aquamarine">#7FFFD4</color>
+    <color name="brown">#A52A2A</color>
+    <color name="burlyWood">#DEB887</color>
+    <color name="chocolate">#D2691E</color>
+    <color name="coral">#FF7F50</color>
+    <color name="darkGoldenRod">#B8860B</color>
+    <color name="darkSalmon">#E9967A</color>
+    <color name="dodgerBlue">#1E90FF</color>
+    <color name="goldenRod">#DAA520</color>
+    <color name="indianRed">#CD5C5C</color>
+    <color name="app_bg">#B8B8B8</color>
+    <color name="dark_color">#001646</color>
 </resources>
